@@ -1,1 +1,4 @@
 this git clone commit  example file
+changed the file for second commit
+
+add
